@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# production build
+dist/
+
+# system files
+.DS_Store
+
+# environment files
+.env
+*.log
